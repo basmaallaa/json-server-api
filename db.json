@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "id": "1",
     "title": "Next-Gen Hardware is Powering Modern Computing",
@@ -97,4 +98,7 @@
     },
     "id": "dDDvinb"
   }
-]
+ ],
+  "$schema": "./node_modules/json-server/schema.json"
+
+}
